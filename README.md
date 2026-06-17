@@ -22,3 +22,20 @@ A voice-enabled AI assistant built with Python.
 ## Author
 
 Arshad Ali
+
+
+## Requirements
+
+
+groq api 
+SpeechRecognition
+edge-tts
+pygame
+keyboard
+pyaudio(if Ava is running already then not require)
+
+
+
+
+
+
